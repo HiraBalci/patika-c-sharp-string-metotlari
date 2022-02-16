@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\bin\Debug\string-metotlar.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\bin\Debug\string-metotlar.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\bin\Debug\string-metotlar.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\obj\Debug\string-metotlar.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\obj\Debug\string-metotlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\obj\Debug\string-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\obj\Debug\string-metotlar.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\string-metotlar\string-metotlar\obj\Debug\string-metotlar.pdb
